@@ -1,0 +1,23 @@
+{
+  "name": "reshetnikov.fr",
+  "version": "1.0.0",
+  "description": "My personal site",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a2kad/reshetnikov.fr.git"
+  },
+  "author": "Ruslan RESHETNIKOV",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a2kad/reshetnikov.fr/issues"
+  },
+  "homepage": "https://github.com/a2kad/reshetnikov.fr#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.4.2",
+    "bootstrap": "^5.3.1"
+  }
+}
